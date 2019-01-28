@@ -1,0 +1,2 @@
+# Cornell-University-Summer-College-program-Bambot
+This project is completed as a part of the summer college program at Cornell University Summer College, Cornell University, Ithaca, NY. It comprises of a maze-solver bambot. Coding done using Arduino and the M5-Stack as the microcontroller used. The robot detects and avoids obstacles and edges, solves mazes at angles of 90 degrees and follows the leader.
